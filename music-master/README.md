@@ -19,12 +19,6 @@
 
 #### 游戏内容展示
 
-+ 玩法演示
-
-<video width="640" height="360" controls>
-   <source src="《弦吟》完整演示.mp4" type="video/mp4">
-</video>
-
 + 开始界面
 
 ![开始界面](img/1.png)
